@@ -19,4 +19,4 @@
 ![tiddey bear pic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnationaltoday.com%2Fteddy-bear-day%2F&psig=AOvVaw3WrMLGdWvMYlZft10Swq8X&ust=1719861282716000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj-pOOEhIcDFQAAAAAdAAAAABAE)
 # or by 
 # Absluote path:
-/home/omar/Me/IMG_0728.JPG
+![Omar picture](/home/omar/Me/IMG_0728.JPG)
